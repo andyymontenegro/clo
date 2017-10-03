@@ -1,9 +1,4 @@
-/*
-    Theme Name: Maxim
-    Theme URL: https://bootstrapmade.com/maxim-free-onepage-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
+
 
 /*
 ===========================
@@ -245,6 +240,10 @@ em {
 h2.pagetitle {
 	color:#fff;
 	font-size:46px;
+}
+
+.section2 {
+	background-color: black;
 }
 
 /* =========================================================
